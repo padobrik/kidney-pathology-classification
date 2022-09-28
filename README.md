@@ -1,5 +1,5 @@
 # Classification model for kidney pathology
-Experimenting with the quality of classification of the kidney pathology according in case of different activation functions
+Experimenting with the quality of classification of the kidney pathology in case of different activation functions
 
 *Accepted to publication in "Studies in Computational Intelligence" by Springer Nature*
 
