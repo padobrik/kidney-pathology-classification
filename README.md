@@ -20,5 +20,5 @@ GELU works differently from ReLU as it weighs its inputs by their value rather t
 
 ## Contribution
 Special thanks to:
-- @HaselLoyance for testing models
-- @alencombo for medical annotations
+- ![Yaroslav Mikhaylik](https://github.com/HaselLoyance) for testing models
+- ![Alena Samarina](https://github.com/alencombo) for medical annotations
