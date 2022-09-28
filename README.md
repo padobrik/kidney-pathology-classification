@@ -6,6 +6,10 @@ Experimenting with the quality of classification of the kidney pathology in case
 ## Dataset
 Import dataset here: `https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone`
 
+## Libs
+- Processing and Visualization: `pandas`, `numpy`, `matplotlib`
+- Neural Network Architecture: `keras`, `tensorflow`
+
 ## Results
 The architecture of the neural network was based on the ReLU. To improve the quality of the classification, the activation unctions were selected: LeakyReLU, ELU, SELU and GELU. Based on the built neural network architecture, there were formed four cascades of algorithms for each of the activation functions.
 
