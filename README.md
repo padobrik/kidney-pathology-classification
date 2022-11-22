@@ -1,7 +1,7 @@
 # Classification model for kidney pathology
 Experimenting with the quality of classification of the kidney pathology in case of different activation functions
 
-*Accepted to publication in "Studies in Computational Intelligence" by Springer Nature*
+*Accepted to publication in "Studies in Computational Intelligence" by Springer Nature*: [Book](https://link.springer.com/chapter/10.1007/978-3-031-19032-2_37)
 
 ## Dataset
 Import dataset here: `https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone`
